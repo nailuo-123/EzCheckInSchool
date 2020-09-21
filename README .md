@@ -15,8 +15,8 @@
 ## 更新日志
 
 部分老版本可能存在打卡失败 `Gateway timeout 504` 错误，建议更新新版本。
-
-2020.9.16 21:35 更新多用户版，使用WxPusher，致谢[@themanforfree](https://github.com/themanforfree)
+ 
+2020.9.16 21:35 更新多用户版， 使用WxPusher，致谢[@themanforfree](https://github.com/themanforfree)
 
 2020.9.14 12:40 使用方法优化
 
